@@ -1,1 +1,26 @@
-# mva_geom
+# Geometry Processing and Geometric Deep Learning
+
+## Lecturers:
+
+- [Etienne Corman](https://members.loria.fr/ECorman/) (junior CNRS researcher, LORIA)
+- [Julie Digne](https://liris.cnrs.fr/julie.digne/) (senior CNRS researcher, LIRIS)
+- [Maks Ovsjanikov](https://www.lix.polytechnique.fr/~maks/) (Professor at Ecole Polytechnique, LIX)
+
+## Goals of the course
+
+ This course will introduce students to advanced topics in modern geometric data analysis (the field known as Geometry Processing) with focus on: 
+a) mathematical foundations (discrete differential geometry, mapping, optimization), and 
+b) deep learning for best performing methods. 
+
+
+We will give an overview of the foundations in surface-based analysis and processing before moving to modern techniques based on deep learning for solving problems such as 3D shape classification, correspondence, parametrization, etc. Finally, we will cover recent approaches for generating geometry, from both the mesh and shape-based perspectives.
+
+
+## Planning
+
+- Lecture 1: Intro to Discrete Differential Geometry. Basic differential operators on surfaces in both the smooth and discrete settings. Operator discretization through FEM. Geodesics. Functions, derivatives, integration, convolution on surfaces.
+- Lecture 2:  Discrete Differential Geometry part 2. Spectral methods + manipulating geometry, Curvature. Shape deformation, Optimization of geometric energies. Surface parameterization. Mappings between surfaces. Basic surface topology, and topological constraints.
+- Lecture 3: Deep learning on curved surfaces. Intrinsic representations. Surface-based learning. Parallel transport. Vector fields, Convolution on surfaces and triangle meshes. Geodesic CNNs and their variants. Feature propagation through parallel transport. Invariant vs. equivariant features
+– Lecture 4: Global and local coordinate systems. Other surface-based learning methods. PointNet (for context), MeshCNN, DiffusionNet, DeltaConv, SpiralNet++. Different applications + training of neural networks (segmentation, correspondence, classification). Graph-based learning.
+- Lecture 5: Neural fields for surface representation, generation and analysis. Neural Radiance fields and Neural Fields regularization. DeepSDF, Occupancy networks, Fast Fourier Features.
+- Lecture 6: Generative Modeling (how to generate the surface structure). Local synthesis. E.g., geometric texture synthesis. In-painting. Mesh generation, Differentiable meshing.
