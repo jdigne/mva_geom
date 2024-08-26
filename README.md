@@ -18,7 +18,7 @@ We will give an overview of the foundations in surface-based analysis and proces
 
 ## Planning 2024 (tentative dates)
 
-Courses take place in room 1Z53 at ENS Paris Saclay on Wednesdays. Courses are from 1 pm to 3:20 pm followed by lab workk 3:40-5:40 pm
+Courses take place in room 1Z53 at ENS Paris Saclay on Wednesdays. Courses are from 1 pm to 3:20 pm followed by lab work from 3:40 to 5:40 pm.
 
 - Oct. 2nd: Lecture 1 (E. Corman): Intro to Discrete Differential Geometry. Basic differential operators on surfaces in both the smooth and discrete settings. Operator discretization through FEM. Geodesics. Functions, derivatives, integration, convolution on surfaces.
 - Oct. 9th: Lecture 2 (E. Corman):  Discrete Differential Geometry part 2. Spectral methods + manipulating geometry, Curvature. Shape deformation, Optimization of geometric energies. Surface parameterization. Mappings between surfaces. Basic surface topology, and topological constraints.
