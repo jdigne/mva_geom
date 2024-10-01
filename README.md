@@ -20,7 +20,7 @@ We will give an overview of the foundations in surface-based analysis and proces
 
 Courses take place in room 1Z53 at ENS Paris Saclay on Wednesdays. Courses are from 1 pm to 3:20 pm followed by lab work from 3:40 to 5:40 pm.
 
-- Oct. 2nd: Lecture 1 (E. Corman): Intro to Discrete Differential Geometry. Basic differential operators on surfaces in both the smooth and discrete settings. Operator discretization through FEM. Geodesics. Functions, derivatives, integration, convolution on surfaces.
+- Oct. 2nd: Lecture 1 (E. Corman) ([Intro](slides/MVA_Course_Introduction.pdf), [Slides](slides/MVA_lecture1.pdf), [TD](td/TD1.zip)): Intro to Discrete Differential Geometry. Basic differential operators on surfaces in both the smooth and discrete settings. Operator discretization through FEM. Geodesics. Functions, derivatives, integration, convolution on surfaces.
 - Oct. 9th: Lecture 2 (E. Corman):  Discrete Differential Geometry part 2. Spectral methods + manipulating geometry, Curvature. Shape deformation, Optimization of geometric energies. Surface parameterization. Mappings between surfaces. Basic surface topology, and topological constraints.
 - Oct. 16th: Lecture 3 (M. Ovsjanikov):  Extrinsic learning approaches for regular data in 2D and 3D. Intrinsic approaches. Convolution on surfaces and triangle meshes. Geodesic CNNs and their variants. Spectral methods, pros and cons. Learning via diffusion.
 - Oct. 30th: Lecture 4 (M. Ovsjanikov): Projection-based approaches. Learning on Point clouds. Common point-based architectures (PointNet, PointNet++, DGCNN, KPConv, etc.). Applications (surface reconstruction, point cloud filtering).
