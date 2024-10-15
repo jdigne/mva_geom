@@ -33,5 +33,5 @@ A registration form will be sent to all MVA students to subscribe to the course 
 
 ## Validation
 - Lab (20%): the 2nd (Oct. 9th), 4th (Oct. 30th) and 6th (Nov. 13th) labs will be evaluated. The files can be sent up to one week after the class. We will keep the best two grades.
-- Quizz (20%): based on the material of 1st, 2nd and 3rd lectures. 15 minutes at the beginning of 2nd, 4th and 5th TDs. We will keep the best two grades.
+- Quizz (20%): based on the material of 1st, 3rd and 5th lectures. 15 minutes at the beginning of 2nd, 4th and 6th TDs. We will keep the best two grades.
 - Oral presentation (60%): presentation with slides of a research paper.
