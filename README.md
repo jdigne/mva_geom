@@ -28,13 +28,13 @@ We will schedule slots of approximately 30 minutes, in which during the first 20
 - You are not required to implement the paper.
 - If you do implement it (or run the publicly released code), you can, of course mention, this during your presentation and show the obtained results.
 - During the Q&A we might ask you questions from the course that might be related to the presented paper.
-- You can join in teams (of up to 2 members) to do this. 
+- You can join in teams (of up to 2 members) to do this. Indeed we **strongly encourage** you to partner up with someone else for this final project.
 
 We will send (by email) a list of possible papers to present. If you would like to present a paper that's not on the list, please feel free to email us at GeometricDeepLearning@protonmail.com to get our approval. 
 
 Please note that we will limit the number of possible groups per paper to 3. In other words, if 3 teams have already selected a specific paper on our list, we will not allow any other groups to pick it. Therefore, it is in your interest to select as soon as possible. Once you have made your selection, please notify us of the paper (and team members of your group) by email via GeometricDeepLearning@protonmail.com.
 
-The **Strict Deadline** for selecting the paper to present is **midnight Nov. 6th**. We will not accept any requests after that date. Once we have all the selections, we will schedule final presentations (which are likely to happen remotely via Zoom) on Nov 20th.
+The **Strict Deadline** for selecting the paper to present is **midnight Nov. 6th**. We will not accept any requests after that date. Once we have all the selections, we will schedule final presentations (which are likely to happen remotely via Zoom).
 
 Don't hesitate to let us know if you have any questions or comments.
 
