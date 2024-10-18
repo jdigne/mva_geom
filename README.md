@@ -17,9 +17,16 @@ We will give an overview of the foundations in surface-based analysis and proces
 
 ## Final Projects
 
-For your final project, you will be asked to present a research paper related to our course. The main goals are: 1. Read and understand the article, 2. Understand the background (context in which the work is done), 3. Understand the presented solution, 4. Understand the strengths and weaknesses of this solution, 5. Possibly highlight future/follow-up work. We will schedule slots of approximately 30 minutes, in which during the first 20 minutes we will ask you to give your presentation covering the article that you have chosen, and the remaining 10 minutes dedicated to the Q&A from our side. Please note that
+For your final project, you will be asked to present a research paper related to our course. The main goals are:
+1. Read and understand the article,
+2. Understand the background (context in which the work is done),
+3. Understand the presented solution,
+4. Understand the strengths and weaknesses of this solution,
+5. Possibly highlight future/follow-up work.
+
+We will schedule slots of approximately 30 minutes, in which during the first 20 minutes we will ask you to give your presentation covering the article that you have chosen, and the remaining 10 minutes dedicated to the Q&A from our side. Please note that
 - You are not required to implement the paper.
-- If you do implement it (or run the publicly released code), you can of course mention this during your presentation and show the obtained results.
+- If you do implement it (or run the publicly released code), you can, of course mention, this during your presentation and show the obtained results.
 - During the Q&A we might ask you questions from the course that might be related to the presented paper.
 - You can join in teams (of up to 2 members) to do this. 
 
