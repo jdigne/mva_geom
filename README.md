@@ -15,6 +15,29 @@ b) deep learning for best performing methods.
 
 We will give an overview of the foundations in surface-based analysis and processing before moving to modern techniques based on deep learning for solving problems such as 3D shape classification, correspondence, parametrization, etc. Finally, we will cover recent approaches for generating geometry, from both the mesh and shape-based perspectives.
 
+## Final Projects
+
+For your final project, you will be asked to present a research paper related to our course. The main goals are:
+1. Read and understand the article,
+2. Understand the background (context in which the work is done),
+3. Understand the presented solution,
+4. Understand the strengths and weaknesses of this solution,
+5. Possibly highlight future/follow-up work.
+
+We will schedule slots of approximately 30 minutes, in which during the first 20 minutes we will ask you to give your presentation covering the article that you have chosen, and the remaining 10 minutes dedicated to the Q&A from our side. Please note that
+- You are not required to implement the paper.
+- If you do implement it (or run the publicly released code), you can, of course mention, this during your presentation and show the obtained results.
+- During the Q&A we might ask you questions from the course that might be related to the presented paper.
+- You can join in teams (of up to 2 members) to do this. Indeed we **strongly encourage** you to partner up with someone else for this final project.
+
+We will send (by email) a list of possible papers to present. If you would like to present a paper that's not on the list, please feel free to email us at GeometricDeepLearning@protonmail.com to get our approval. 
+
+Please note that we will limit the number of possible groups per paper to 3. In other words, if 3 teams have already selected a specific paper on our list, we will not allow any other groups to pick it. Therefore, it is in your interest to select as soon as possible. Once you have made your selection, please notify us of the paper (and team members of your group) by email via GeometricDeepLearning@protonmail.com.
+
+The **Strict Deadline** for selecting the paper to present is **midnight Nov. 6th**. We will not accept any requests after that date. Once we have all the selections, we will schedule final presentations (which are likely to happen remotely via Zoom).
+
+Don't hesitate to let us know if you have any questions or comments.
+
 
 ## Planning 2024 (tentative dates)
 
@@ -22,7 +45,8 @@ Courses take place at ENS Paris Saclay on Wednesdays. Courses are from 1 pm to 3
 
 - Oct. 2nd (**Room 1Z53**): Lecture 1 (E. Corman) ([Intro](slides/MVA_Course_Introduction.pdf), [Slides](slides/MVA_lecture1.pdf), [Lab](td/TD1.zip), [Lab correction](td/TD1_Corrrection.ipynb)): Intro to Discrete Differential Geometry. Basic differential operators on surfaces in both the smooth and discrete settings. Operator discretization through FEM. Geodesics. Functions, derivatives, integration, convolution on surfaces.
 - Oct. 9th (**Room 1B36**): Lecture 2 (E. Corman) ([Slides](slides/MVA_lecture2.pdf), [Lab](td/TD2.zip)):  Discrete Differential Geometry part 2. Spectral methods + manipulating geometry, Curvature. Shape deformation, Optimization of geometric energies. Surface parameterization. Mappings between surfaces. Basic surface topology, and topological constraints.
-- Oct. 16th (**Room 1Z18**): Lecture 3 (M. Ovsjanikov): [Slides part 1](slides/MVA_lecture3_part1.pdf) ([with extra background](slides/MVA_lecture3_part1_wextra_slides.pdf)), ([Slides part 2](slides/MVA_lecture3_part2.pdf)), [Lab](td/TD3_Q.ipynb)  Extrinsic learning approaches for regular data in 2D and 3D. Intrinsic approaches. Convolution on surfaces and triangle meshes. Geodesic CNNs and their variants. Spectral methods, pros and cons. Learning via diffusion.
+- Oct. 16th (**Room 1Z18**): Lecture 3 (M. Ovsjanikov): [Slides part 1](slides/MVA_lecture3_part1.pdf) ([with extra background](slides/MVA_lecture3_part1_wextra_slides.pdf)), ([Slides part 2](slides/MVA_lecture3_part2.pdf)), ([Lecture recording](https://ens-paris-saclay-fr.zoom.us/rec/share/_czVt9bwwjrdiAeGm5qGdXpeh8XlTNbEbo27D4OHkso80_bX8tixYhscL6j3m0sg.F-kj5suMXU3LZYIK 
+), password: fyz0FtU%) [Lab](td/TD3_Q.ipynb)  Extrinsic learning approaches for regular data in 2D and 3D. Intrinsic approaches. Convolution on surfaces and triangle meshes. Geodesic CNNs and their variants. Spectral methods, pros and cons. Learning via diffusion.
 - Oct. 30th (**Room 1Z18**): Lecture 4 (M. Ovsjanikov): Projection-based approaches. Learning on Point clouds. Common point-based architectures (PointNet, PointNet++, DGCNN, KPConv, etc.). Applications (surface reconstruction, point cloud filtering).
 - Nov. 6th (**Room 1Z18**): Lecture 5 (J. Digne): Neural fields for surface representation, generation and analysis. Neural Radiance fields and Neural Fields regularization. DeepSDF, Occupancy networks, Fast Fourier Features.
 - Nov. 13th (**Room 1Z53**): Lecture 6 (J. Digne): Generative Modeling (how to generate the surface structure). Local synthesis. E.g., geometric texture synthesis. In-painting. Mesh generation, Differentiable meshing.
