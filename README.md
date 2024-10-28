@@ -36,6 +36,8 @@ Please note that we will limit the number of possible groups per paper to 3. In 
 
 The **Strict Deadline** for selecting the paper to present is **midnight Nov. 6th**. We will not accept any requests after that date. Once we have all the selections, we will schedule final presentations (which are likely to happen remotely via Zoom).
 
+The list of paper is available at this [link](https://docs.google.com/document/d/1iVGCgSMZf_lFjlYCdPU__8Tux8y1pf-TiKqnVniCATA/edit?tab=t.0)
+
 Don't hesitate to let us know if you have any questions or comments.
 
 
