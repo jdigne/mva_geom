@@ -50,8 +50,8 @@ Courses take place at ENS Paris Saclay on Wednesdays. Courses are from 1 pm to 3
 - Oct. 16th (**Room 1Z18**): Lecture 3 (M. Ovsjanikov): [Slides part 1](slides/MVA_lecture3_part1.pdf) ([with extra background](slides/MVA_lecture3_part1_wextra_slides.pdf)), ([Slides part 2](slides/MVA_lecture3_part2.pdf)), ([Lecture recording](https://ens-paris-saclay-fr.zoom.us/rec/share/_czVt9bwwjrdiAeGm5qGdXpeh8XlTNbEbo27D4OHkso80_bX8tixYhscL6j3m0sg.F-kj5suMXU3LZYIK 
 ), password: fyz0FtU%) [Lab](td/TD3_Q.ipynb)  [Lab_correction](td/TD3_Q_correction.ipynb) Extrinsic learning approaches for regular data in 2D and 3D. Intrinsic approaches. Convolution on surfaces and triangle meshes. Geodesic CNNs and their variants. Spectral methods, pros and cons. Learning via diffusion.
 - Oct. 30th (**Room 1Z18**): Lecture 4 (M. Ovsjanikov): ([Slides](slides/MVA_lecture4_cmp.pdf), [Lab](td/TD_4.ipynb)) Projection-based approaches. Learning on Point clouds. Common point-based architectures (PointNet, PointNet++, DGCNN, KPConv, etc.). Applications (surface reconstruction, point cloud filtering).
-- Nov. 6th (**Room 1Z18**): Lecture 5 (J. Digne): Neural fields for surface representation, generation and analysis. Neural Radiance fields and Neural Fields regularization. DeepSDF, Occupancy networks, Fast Fourier Features.
-- Nov. 13th (**Room 1Z53**): Lecture 6 (J. Digne): Generative Modeling (how to generate the surface structure). Local synthesis. E.g., geometric texture synthesis. In-painting. Mesh generation, Differentiable meshing.
+- Nov. 6th (**Room 1Z18**): Lecture 5 (J. Digne): Neural fields for surface representation, generation and analysis. Neural Radiance fields and Neural Fields regularization. DeepSDF, Occupancy networks.([Slides](slides/MVA_lecture5.pdf)), [Lab](td/TD_5.ipynb))
+- Nov. 13th (**Room 1Z53**): Lecture 6 (J. Digne): Generative models for shapes, Latent Shape Spaces 
 - Nov 20th (**Room 1Z18**): Paper reading presentations
 
 ## Registration and mailing list
