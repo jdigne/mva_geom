@@ -51,9 +51,14 @@ Courses take place at ENS Paris Saclay on Wednesdays. Courses are from 1 pm to 3
 ), password: fyz0FtU%) [Lab](td/TD3_Q.ipynb)  [Lab_correction](td/TD3_Q_correction.ipynb) Extrinsic learning approaches for regular data in 2D and 3D. Intrinsic approaches. Convolution on surfaces and triangle meshes. Geodesic CNNs and their variants. Spectral methods, pros and cons. Learning via diffusion.
 - Oct. 30th (**Room 1Z18**): Lecture 4 (M. Ovsjanikov): ([Slides](slides/MVA_lecture4_cmp.pdf)), ([Lecture recording](https://www.dropbox.com/s/bxn9lhwbrqjuxm8/GMT20241030-120528_Recording_1790x956.mp4?dl=0)), ([Lab](td/TD_4.ipynb)), Projection-based approaches. Learning on Point clouds. Common point-based architectures (PointNet, PointNet++, DGCNN, KPConv, Sparse Convolution, Point Transformers). Applications (surface reconstruction, point cloud filtering).
 - Nov. 6th (**Room 1Z18**): Lecture 5 (J. Digne): Neural fields for surface representation, generation and analysis. DeepSDF, Occupancy networks.([Slides](slides/MVA_lecture5.pdf)), [Lab](td/TD_5.ipynb))
+<<<<<<< HEAD
 - Nov. 13th (**Room 1Z53**): Lecture 6 (J. Digne): Generative models for shapes, Latent Shape Spaces, Novel View Synthesis ([Slides](slides/MVA_lecture6.pdf))
 [Quizz](https://surveyjs.io/published?id=bcba3c61-a0bd-4226-a27d-aded98407259)
 - Nov 27th and Nov 28th
+=======
+- Nov. 13th (**Room 1Z53**): Lecture 6 (J. Digne): Generative models for shapes, Latent Shape Spaces, Novel View Synthesis ([Slides](slides/MVA_lecture6.pdf), [Lab](td/TP_6.ipynb), [Quizz](https://surveyjs.io/published?id=bcba3c61-a0bd-4226-a27d-aded98407259))
+- Nov 20th (**Room 1Z18**): Paper reading presentations
+>>>>>>> 6929e32562327e21d1d46a0f93599b7a2c061fb1
 
 ## Registration and mailing list
 A registration form will be sent to all MVA students to subscribe to the course mailing-list.
