@@ -38,7 +38,12 @@ The **Strict Deadline** for selecting the paper to present is **midnight Nov. 6t
 
 The list of papers is available at this [link](https://docs.google.com/document/d/1iVGCgSMZf_lFjlYCdPU__8Tux8y1pf-TiKqnVniCATA/edit?tab=t.0).
 
-The papers have been selected! Please tell us your availabilities at this [link](https://docs.google.com/document/d/1FfDYfE664JMFkkfu4MDZvVb4IpQx9JACRjswoYEpTJI/edit?tab=t.0).
+The papers have been selected and the final schedule is ready! You can find the schedule at this [link](https://docs.google.com/document/d/15WPGpft7smMMixXV0LAlb3y_Sby5Kkoh_1I_-6mz7nE/edit?tab=t.0). Please follow the instructions below (in addition of the other instructions above):
+- Presentations should last 20 minutes, there will be a limited tolerance if you are late, as the schedule is tight.
+- There will be 5 minutes of questions, either on the paper or on some concepts seen during the course.
+- The presentations should be in english
+- We ask you to join the zoom link only 5 minutes before the start of your time slot, and to be on time to respect everyone's schedule.
+
 Don't hesitate to let us know if you have any questions or comments.
 
 
