@@ -67,6 +67,6 @@ Courses take place at Université paris Cité (Cochin or Cordeliers sites) on We
 A registration form will be sent to all MVA students to subscribe to the course mailing-list.
 
 ## Validation
-- Lab (20%): the 2nd, 4th and 6th labs will be evaluated. The files can be sent up to one week after the class. We will keep the best two grades.
+- Lab (20%): the 2nd, 4th and 6th labs will be evaluated. The files can be sent **up to one week after the class** at **GeometricDeepLearning@protonmail.com**. We will keep the best two grades.
 - Quizz (20%): based on the material of 1st, 3rd and 5th lectures. 15 minutes at the beginning of 2nd, 4th and 6th TDs. We will keep the best two grades.
 - Oral presentation (60%): presentation with slides of a research paper.
