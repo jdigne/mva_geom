@@ -5,6 +5,7 @@
 - [Etienne Corman](https://members.loria.fr/ECorman/) (junior CNRS researcher, LORIA)
 - [Julie Digne](https://liris.cnrs.fr/julie.digne/) (senior CNRS researcher, LIRIS)
 - [Maks Ovsjanikov](https://www.lix.polytechnique.fr/~maks/) (Professor at Ecole Polytechnique, LIX)
+- [Emery Pierson](https://daidedou.github.io) (Postdoc at Ecole Polytechnique, LIX)
 
 ## Goals of the course
 
