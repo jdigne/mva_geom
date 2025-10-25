@@ -37,7 +37,10 @@ Please note that we will limit the number of possible groups per paper to 3. In 
 
 The **Strict Deadline** for selecting the paper to present is **midnight Nov. 6th**. We will not accept any requests after that date. Once we have all the selections, we will schedule final presentations (which will happen remotely via Zoom).
 
-More details will follow.
+
+The list of papers to be selected is available at this [link](https://docs.google.com/document/d/1_3aIV7NAPX8fJbfrbK-QQ3lbd7nRO6Ww2aZqCqVHKs4/edit?tab=t.0). 
+
+You need to send an e-mail to geometricdeeplearning@protonmail.com to validate your selection.
 
 <!--The list of papers is available at this [link](https://docs.google.com/document/d/1iVGCgSMZf_lFjlYCdPU__8Tux8y1pf-TiKqnVniCATA/edit?tab=t.0).
 
