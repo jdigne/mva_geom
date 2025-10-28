@@ -64,7 +64,7 @@ Courses take place at Université paris Cité (Cochin or Cordeliers sites) on We
 - Nov. 5th (**Cordeliers Rdc - Cordeliers Pavillon 3**): Lecture 4 (M. Ovsjanikov):  3D Deep Learning part 2. Intrinsic learning on surfaces. Geodesic Convolutional Neural Networks, Learning via Diffusion.
 - Nov. 19th (**Cochin Amphitheatre Luton**): Lecture 5 (J. Digne): Neural fields for surface representation, generation and analysis. DeepSDF, Occupancy networks.
 - Nov. 26th (**Cochin Amphitheatre Luton**): Lecture 6 (J. Digne): Generative models for shapes, Latent Shape Spaces, Novel View Synthesis.
-- **(tentative) Nov 10th-11th: Paper reading presentations (zoom)**
+- **(tentative) Dec 10th-11th: Paper reading presentations (zoom)**
 
 
 ## Registration and mailing list
