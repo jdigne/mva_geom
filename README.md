@@ -66,7 +66,8 @@ Courses take place at Université paris Cité (Cochin or Cordeliers sites) on We
 - Nov. 12th (**Cochin Amphitheatre Luton**): Lecture 4 (M. Ovsjanikov):  3D Deep Learning part 2. Intrinsic learning on surfaces. Geodesic Convolutional Neural Networks, Learning via Diffusion. [Slides](https://drive.google.com/file/d/1T_pMiqwajwrCiVDsgtIza1oEpUKkcS4w/view?usp=sharing), [Lab (colab link)](https://colab.research.google.com/drive/1WoqCGan-uSiL7yzogCKIp3rq-hMgpOjQ?usp=sharing)
 - Nov. 19th (**Cochin Amphitheatre Luton**): Lecture 5 (J. Digne): Neural fields for surface representation, generation and analysis. DeepSDF, Occupancy networks. [Slides](https://liris.cnrs.fr/julie.digne/cours/cours_mva1.pdf), [Lab](https://liris.cnrs.fr/julie.digne/cours/TD5.ipynb), [Colab](https://colab.research.google.com/drive/11Bmmsrbia_Wr5vgGNG7IXTV2YGu9-3wS?usp=sharing)
 
-- Nov. 26th (**Cochin Amphitheatre Luton**): Lecture 6 (J. Digne): Generative models for shapes, Latent Shape Spaces, Novel View Synthesis.
+- Nov. 26th (**Cochin Amphitheatre Luton**): Lecture 6 (J. Digne): Generative models for shapes, Latent Shape Spaces, Novel View Synthesis. [Slides](https://liris.cnrs.fr/julie.digne/cours/cours_mva2.pdf), [Lab](https://liris.cnrs.fr/julie.digne/cours/TD6.ipynb).
+
 - **(tentative) Dec 10th-11th: Paper reading presentations (zoom)**
 
 
