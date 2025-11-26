@@ -68,6 +68,8 @@ Courses take place at Université paris Cité (Cochin or Cordeliers sites) on We
 
 - Nov. 26th (**Cochin Amphitheatre Luton**): Lecture 6 (J. Digne): Generative models for shapes, Latent Shape Spaces, Novel View Synthesis. [Slides](https://liris.cnrs.fr/julie.digne/cours/cours_mva2.pdf), [Lab](https://liris.cnrs.fr/julie.digne/cours/TD6.ipynb), [Colab](https://colab.research.google.com/drive/1N6u77GUDFsC6Vz2kAQ7OSm6EJX8LCqAq?usp=sharing)
 
+** [QUIZZ](https://surveyjs.io/published?id=4f70486f-ce57-4be5-969c-4dca6403ca07) **
+
 - **(tentative) Dec 10th-11th: Paper reading presentations (zoom)**
 
 
