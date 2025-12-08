@@ -62,6 +62,8 @@ For the final presentations, please follow the instructions below (in addition o
 
 Don't hesitate to let us know if you have any questions or comments.
 
+The schedule for the presentations is available at this [link](https://docs.google.com/document/d/1ma50W2CN56m_g81Nxp9-T9FjWGf0ScM3kXTDDJGfBOc/edit?usp=sharing)
+
 
 ## Planning 2025 (tentative dates)
 
