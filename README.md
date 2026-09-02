@@ -42,7 +42,7 @@ The list of papers will be released soon.
 
 You need to send an e-mail to geometricdeeplearning@protonmail.com to validate your selection.
 
-
+<!--
 ## Organization
 
 To organize final presentations as smoothly as possible, **we ask you to fill the following document with your availability**. The presentation dates are 10th and 11th. Due to late reorganization of the teaching team's schedule, **we ask you to prioritize the 11th as much as possible**.
@@ -59,9 +59,8 @@ For the final presentations, please follow the instructions below (in addition o
 - The presentations should be in english
 - We ask you to join the zoom link only 5 minutes before the start of your time slot, and to be on time to respect everyone's schedule.
 
-Don't hesitate to let us know if you have any questions or comments.
+Don't hesitate to let us know if you have any questions or comments.-->
 
-The schedule for the presentations is available at this [link](https://docs.google.com/document/d/1ma50W2CN56m_g81Nxp9-T9FjWGf0ScM3kXTDDJGfBOc/edit?usp=sharing)
 
 
 ## Planning 2026 (tentative dates)
