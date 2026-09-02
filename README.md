@@ -43,16 +43,25 @@ The list of papers will be released soon.
 You need to send an e-mail to geometricdeeplearning@protonmail.com to validate your selection.
 
 
-<!--The list of papers is available at this [link](https://docs.google.com/document/d/1iVGCgSMZf_lFjlYCdPU__8Tux8y1pf-TiKqnVniCATA/edit?tab=t.0).
+## Organization
 
-The papers have been selected and the final schedule is ready! You can find the schedule at this [link](https://docs.google.com/document/d/15WPGpft7smMMixXV0LAlb3y_Sby5Kkoh_1I_-6mz7nE/edit?tab=t.0).
- Please follow the instructions below (in addition of the other instructions above):
+To organize final presentations as smoothly as possible, **we ask you to fill the following document with your availability**. The presentation dates are 10th and 11th. Due to late reorganization of the teaching team's schedule, **we ask you to prioritize the 11th as much as possible**.
+
+**[Document for filling out availability](https://docs.google.com/document/d/1zFpJGmy9q3iLqPOPimFdqavg9vs8kvRXzVvdYO1ynKE/edit?usp=sharing)**
+
+The link will also be available on the website.
+**<span style="color:red;"> The deadline to give your availability is Sunday, 23:59. If you don't fill the document by this date, you won't be able to present the final project, and won't validate the course.</span>** 
+We will send you your official time slots by Monday. 
+
+For the final presentations, please follow the instructions below (in addition of the other instructions above):
 - Presentations should last 20 minutes, there will be a limited tolerance if you are late, as the schedule is tight.
 - There will be 5 minutes of questions, either on the paper or on some concepts seen during the course.
 - The presentations should be in english
 - We ask you to join the zoom link only 5 minutes before the start of your time slot, and to be on time to respect everyone's schedule.
 
-Don't hesitate to let us know if you have any questions or comments.-->
+Don't hesitate to let us know if you have any questions or comments.
+
+The schedule for the presentations is available at this [link](https://docs.google.com/document/d/1ma50W2CN56m_g81Nxp9-T9FjWGf0ScM3kXTDDJGfBOc/edit?usp=sharing)
 
 
 ## Planning 2026 (tentative dates)
