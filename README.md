@@ -38,11 +38,10 @@ Please note that we will limit the number of possible groups per paper to 3. In 
 The **Strict Deadline** for selecting the paper to present is **midnight Nov. 6th**. We will not accept any requests after that date. Once we have all the selections, we will schedule final presentations (which will happen remotely via Zoom).
 
 
-The list of papers to be selected is available at this [link](https://docs.google.com/document/d/1_3aIV7NAPX8fJbfrbK-QQ3lbd7nRO6Ww2aZqCqVHKs4/edit?tab=t.0). 
+The list of papers will be released soon.
 
 You need to send an e-mail to geometricdeeplearning@protonmail.com to validate your selection.
 
-The list of papers with student choices is ready, available at this [link](https://docs.google.com/document/d/1S0aNDZlxVh1BYbQooUTqVfqOTHgSujWLvVnVruDkCFk/edit?tab=t.0). Please verify if the paper your selected is the right one.
 
 <!--The list of papers is available at this [link](https://docs.google.com/document/d/1iVGCgSMZf_lFjlYCdPU__8Tux8y1pf-TiKqnVniCATA/edit?tab=t.0).
 
@@ -56,20 +55,18 @@ The papers have been selected and the final schedule is ready! You can find the 
 Don't hesitate to let us know if you have any questions or comments.-->
 
 
-## Planning 2025 (tentative dates)
+## Planning 2026 (tentative dates)
 
 Courses take place at Université paris Cité (Cochin or Cordeliers sites) on Wednesdays. *Courses are from 1 pm to 3:20 pm followed by lab work from 3:40 to 5:40 pm.*
 
-- Oct. 1st (**Cordeliers Rdc - Cordeliers Pavillon 3**, [Intro](https://members.loria.fr/ECorman/mva_geom/MVA_Course_Introduction.pdf), [Slides](https://members.loria.fr/ECorman/mva_geom/MVA_lecture1.pdf), [TD1](https://members.loria.fr/ECorman/mva_geom/TD1.zip), [Colab version](https://colab.research.google.com/drive/1qUBrdEXiUEsRJpgVUMrrwkceoz7QnMB1?usp=sharing), [TD1 Correction](https://members.loria.fr/ECorman/mva_geom/TD1_correction.ipynb)): Lecture 1 (E. Corman): Intro to Discrete Differential Geometry. Basic differential operators on surfaces in both the smooth and discrete settings. Operator discretization through FEM. Geodesics. Functions, derivatives, integration, convolution on surfaces.
-- Oct. 8th (**Cordeliers Rdc - Cordeliers Pavillon 3**,[Slides](https://members.loria.fr/ECorman/mva_geom/MVA_lecture2.pdf), [TD2](https://members.loria.fr/ECorman/mva_geom/TD2.ipynb), [Colab version](https://colab.research.google.com/drive/1Mpy5uCqA_zM7P-tCpTqTM5oHr0MgH2Yx?usp=sharing), [Quiz 1](https://surveyjs.io/published?id=349f91ad-bb37-4f5d-918c-efb38c06f044)): Lecture 2 (E. Corman):  Discrete Differential Geometry part 2. Spectral methods + manipulating geometry, Curvature. Shape deformation, Optimization of geometric energies. Surface parameterization. Mappings between surfaces. Basic surface topology, and topological constraints.
-- Oct. 15th (**Cochin Amphitheatre Luton**): Lecture 3 (M. Ovsjanikov): 3D Deep Learning part 1. Multi-view and volumetric approaches. [Slides](https://www.dropbox.com/scl/fi/rhtvkvhoux6sahbd355sv/MVA-2025-Lecture-3-part-1.pdf?rlkey=oxzmhzcd3infhw1b3gvj0ts8w&st=2yz3qp69&dl=0) Point-based Learning (PointNet, PointNet++, DGCNN, KPConv, Point Cloud Transformers) [Slides](https://www.dropbox.com/scl/fi/65mtjl6fh97e4dtdqxemk/MVA-2025-Lecture-3-part-2.pdf?rlkey=8ttqg4czd9gpds7umabojphdb&st=3budjilg&dl=0). [TD3](https://jdigne.github.io/mva_geom/Lab4.ipynb).
-- Nov. 12th (**Cochin Amphitheatre Luton**): Lecture 4 (M. Ovsjanikov):  3D Deep Learning part 2. Intrinsic learning on surfaces. Geodesic Convolutional Neural Networks, Learning via Diffusion. [Slides](https://drive.google.com/file/d/1T_pMiqwajwrCiVDsgtIza1oEpUKkcS4w/view?usp=sharing), [Lab (colab link)](https://colab.research.google.com/drive/1WoqCGan-uSiL7yzogCKIp3rq-hMgpOjQ?usp=sharing)
-- Nov. 19th (**Cochin Amphitheatre Luton**): Lecture 5 (J. Digne): Neural fields for surface representation, generation and analysis. DeepSDF, Occupancy networks. [Slides](https://liris.cnrs.fr/julie.digne/cours/cours_mva1.pdf), [Lab](https://liris.cnrs.fr/julie.digne/cours/TD5.ipynb), [Colab](https://colab.research.google.com/drive/11Bmmsrbia_Wr5vgGNG7IXTV2YGu9-3wS?usp=sharing)
+- Sept. 30th (**Cochin Amphitheatre Luton**): Lecture 1 (E. Corman): Intro to Discrete Differential Geometry. Basic differential operators on surfaces in both the smooth and discrete settings. Operator discretization through FEM. Geodesics. Functions, derivatives, integration, convolution on surfaces.
+- Oct. 7th (**Cochin Amphitheatre Luton**), Lecture 2 (E. Corman):  Discrete Differential Geometry part 2. Spectral methods + manipulating geometry, Curvature. Shape deformation, Optimization of geometric energies. Surface parameterization. Mappings between surfaces. Basic surface topology, and topological constraints.
+- Oct. 14th (**Cochin Amphitheatre Luton**): Lecture 3 (M. Ovsjanikov): 3D Deep Learning part 1. Multi-view and volumetric approaches.
+- Oct 21st (**Cochin Amphitheatre Luton**): Lecture 4 (M. Ovsjanikov):  3D Deep Learning part 2. Intrinsic learning on surfaces. Geodesic Convolutional Neural Networks, Learning via Diffusion. 
+- Nov. 18th (**Necker -- Amphitheater 3**): Lecture 5 (J. Digne): Neural fields for surface representation, generation and analysis. DeepSDF, Occupancy networks.
+- Nov. 25th (**Cochin Amphitheatre Luton**): Lecture 6 (J. Digne): Generative models for shapes, Latent Shape Spaces, Novel View Synthesis.
 
-- Nov. 26th (**Cochin Amphitheatre Luton**): Lecture 6 (J. Digne): Generative models for shapes, Latent Shape Spaces, Novel View Synthesis. [Slides](https://liris.cnrs.fr/julie.digne/cours/cours_mva2.pdf), [Lab](https://liris.cnrs.fr/julie.digne/cours/TD6.ipynb), [Colab](https://colab.research.google.com/drive/1N6u77GUDFsC6Vz2kAQ7OSm6EJX8LCqAq?usp=sharing)
-
-
-- **(tentative) Dec 10th-11th: Paper reading presentations (zoom)**
+- **(tentative) Dec 9th-10th: Paper reading presentations (zoom)**
 
 
 ## Registration and mailing list
