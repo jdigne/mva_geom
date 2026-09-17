@@ -5,7 +5,12 @@
 - [Etienne Corman](https://members.loria.fr/ECorman/) (junior CNRS researcher, LORIA)
 - [Julie Digne](https://liris.cnrs.fr/julie.digne/) (senior CNRS researcher, LIRIS)
 - [Maks Ovsjanikov](https://www.lix.polytechnique.fr/~maks/) (Professor at Ecole Polytechnique, LIX)
-- [Emery Pierson](https://daidedou.github.io) (Postdoc at Ecole Polytechnique, LIX)
+<!--- [Emery Pierson](https://daidedou.github.io) (Postdoc at Ecole Polytechnique, LIX)-->
+
+## Teaching Assistants
+
+- [Bingchen Gong](https://s2.hk/) (Postdoc at Ecole Polytechnique)
+- [Léopold Maillard](https://www.polytechnique.edu/annuaire/maillard-leopold) (PhD student at Ecole Polytechnique)
 
 ## Goals of the course
 
