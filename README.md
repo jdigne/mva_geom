@@ -45,6 +45,7 @@ Please note that we will limit the number of possible groups per paper to 2. In 
 The **Strict Deadline** for selecting the paper to present is **Friday, November 6, 23:59 (Paris time)**. We will not accept any requests after that date. Once we have all the selections, we will schedule final presentations (which will happen remotely via Zoom).
 
 **→ [Open the paper selection website](https://script.google.com/macros/s/AKfycbzUA1mUgemYnovhe8JmwMcYL1Fe-Zpydhb358etGLdALyDf7lqHO3pWZy2cnngega7L1A/exec)**
+
 <!--
 ## Organization
 
