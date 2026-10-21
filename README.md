@@ -38,17 +38,13 @@ We will schedule slots of approximately 30 minutes, in which during the first 20
 - During the Q&A we might ask you questions from the course that might be related to the presented paper.
 - You can join in teams (of up to 2 members) to do this. Indeed we **strongly encourage** you to partner up with someone else for this final project.
 
-We will send (by email) a list of possible papers to present. If you would like to present a paper that's not on the list, please feel free to email us at GeometricDeepLearning@protonmail.com to get our approval. 
+Select the paper your group will present on the [paper selection website](https://script.google.com/macros/s/AKfycbzUA1mUgemYnovhe8JmwMcYL1Fe-Zpydhb358etGLdALyDf7lqHO3pWZy2cnngega7L1A/exec). All group members receive a confirmation email once the registration goes through. If you would like to present a paper that's not on the list, please feel free to email us at GeometricDeepLearning@protonmail.com to get our approval. 
 
-Please note that we will limit the number of possible groups per paper to 3. In other words, if 3 teams have already selected a specific paper on our list, we will not allow any other groups to pick it. Therefore, it is in your interest to select a paper as soon as possible. Once you have made your selection, please notify us of the paper (and team members of your group) by email via GeometricDeepLearning@protonmail.com.
+Please note that we will limit the number of possible groups per paper to 2. In other words, if 2 teams have already selected a specific paper on our list, we will not allow any other groups to pick it. Therefore, it is in your interest to select a paper as soon as possible. 
 
-The **Strict Deadline** for selecting the paper to present is **midnight Nov. 6th**. We will not accept any requests after that date. Once we have all the selections, we will schedule final presentations (which will happen remotely via Zoom).
+The **Strict Deadline** for selecting the paper to present is **Friday, November 6, 23:59 (Paris time)**. We will not accept any requests after that date. Once we have all the selections, we will schedule final presentations (which will happen remotely via Zoom).
 
-
-The list of papers will be released soon.
-
-You need to send an e-mail to geometricdeeplearning@protonmail.com to validate your selection.
-
+**→ [Open the paper selection website](https://script.google.com/macros/s/AKfycbzUA1mUgemYnovhe8JmwMcYL1Fe-Zpydhb358etGLdALyDf7lqHO3pWZy2cnngega7L1A/exec)**
 <!--
 ## Organization
 
