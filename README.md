@@ -1,7 +1,5 @@
 # Geometry Processing and Geometric Deep Learning
 
-> **October 21 class: IN PERSON at Cochin, Amphi Luton.**
-
 ## Lecturers:
 
 - [Etienne Corman](https://members.loria.fr/ECorman/) (junior CNRS researcher, LORIA)
